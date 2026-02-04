@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ks\\",
+  "WorkspaceRootPath": "D:\\HairSalonSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19772D3B-63F3-42B2-941D-3762C30016E3}|ks\\ks.vcxproj|D:\\ks\\ks\\ks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{19772D3B-63F3-42B2-941D-3762C30016E3}|ks\\ks.vcxproj|D:\\HairSalonSystem\\ks\\ks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{19772D3B-63F3-42B2-941D-3762C30016E3}|ks\\ks.vcxproj|solutionrelative:ks\\ks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ks.cpp",
-              "DocumentMoniker": "D:\\ks\\ks\\ks.cpp",
+              "DocumentMoniker": "D:\\HairSalonSystem\\ks\\ks.cpp",
               "RelativeDocumentMoniker": "ks\\ks.cpp",
-              "ToolTip": "D:\\ks\\ks\\ks.cpp",
+              "ToolTip": "D:\\HairSalonSystem\\ks\\ks.cpp",
               "RelativeToolTip": "ks\\ks.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQCAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2023-12-23T14:57:47.818Z",
               "IsPinned": true,

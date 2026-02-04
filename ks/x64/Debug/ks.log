@@ -1,3 +1,3 @@
 ﻿  ks.cpp
-D:\ks\ks\ks.cpp(378,9): warning C4101: “choice”: 未引用的局部变量
-  ks.vcxproj -> D:\ks\x64\Debug\ks.exe
+D:\HairSalonSystem\ks\ks.cpp(378,9): warning C4101: “choice”: 未引用的局部变量
+  ks.vcxproj -> D:\HairSalonSystem\x64\Debug\ks.exe
