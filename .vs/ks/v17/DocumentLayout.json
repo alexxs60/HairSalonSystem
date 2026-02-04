@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HairSalonSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19772D3B-63F3-42B2-941D-3762C30016E3}|ks\\ks.vcxproj|D:\\HairSalonSystem\\ks\\ks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19772D3B-63F3-42B2-941D-3762C30016E3}|ks\\ks.vcxproj|solutionrelative:ks\\ks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ks.cpp",
+              "DocumentMoniker": "D:\\HairSalonSystem\\ks\\ks.cpp",
+              "RelativeDocumentMoniker": "ks\\ks.cpp",
+              "ToolTip": "D:\\HairSalonSystem\\ks\\ks.cpp",
+              "RelativeToolTip": "ks\\ks.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-12-23T14:57:47.818Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
