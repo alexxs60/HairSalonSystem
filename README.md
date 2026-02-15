@@ -46,8 +46,6 @@ text## 快速开始
 - 查看排序：输入 16（按消费排序顾客）或 17（按收入排序员工）
 
 ## 运行效果截图
-（建议添加 3-4 张截图，放在 screenshots/ 文件夹）
-
 ![菜单界面](screenshots/menu.png)  
 ![添加顾客](screenshots/add-customer.png)  
 ![服务记录](screenshots/service-record.png)  
